@@ -13,3 +13,7 @@
 ## creatingThreadsWithPthreads
 
 Папка предназначенна для создания потоков с помощью pthreads
+
+## process_interaction
+
+Папка предназначенна для взаимодействия процессов
